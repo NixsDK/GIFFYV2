@@ -1,0 +1,13 @@
+{
+    "name": "niksdk/giphyv2",
+    "autoload": {
+        "psr-4": {
+            "Niksdk\\Giphyv2\\": "src/"
+        }
+    },
+    "require": {
+        "nikic/fast-route": "^1.3",
+        "twig/twig": "^3.5",
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
